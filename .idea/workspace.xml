@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4159827-da82-423f-baf9-b776ee6ab905" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Graphs/CourseSchedule-I.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graphs/EventualSafeStates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graphs/TopologicalSort(KahnAlgo)BFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graphs/TopologicalSort.Java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graphs/CheckForCycleinUnDirectedGraphUsingBFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/Graphs/CheckForCycleinUnDirectedGraphUsingBFS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graphs/DetectCycleDG.java" beforeDir="false" afterPath="$PROJECT_DIR$/Graphs/DetectCycleDG.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graphs/DistancetoNearestZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/Graphs/DistancetoNearestZero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graphs/IsGrapghBipartiate.java" beforeDir="false" afterPath="$PROJECT_DIR$/Graphs/IsGrapghBipartiate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graphs/Number of Enclaves.java" beforeDir="false" afterPath="$PROJECT_DIR$/Graphs/Number of Enclaves.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graphs/NumberOfIslands.java" beforeDir="false" afterPath="$PROJECT_DIR$/Graphs/NumberOfIslands.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graphs/SurroundedRegions.java" beforeDir="false" afterPath="$PROJECT_DIR$/Graphs/SurroundedRegions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graphs/WordLadder.java" beforeDir="false" afterPath="$PROJECT_DIR$/Graphs/WordLadder.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
