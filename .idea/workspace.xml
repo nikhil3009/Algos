@@ -2,8 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4159827-da82-423f-baf9-b776ee6ab905" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Trees/In,Pre,Post Order Traversals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/BottomViewOfTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/BoundaryTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/LeftViewofTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/RightViewofTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/TopViewOfTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trees/ Diameter of Binary Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/Trees/ Diameter of Binary Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trees/Balanced Binary Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/Trees/Balanced Binary Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trees/Binary Tree Maximum Path Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Trees/Binary Tree Maximum Path Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trees/CheckIdenticalTrees.java" beforeDir="false" afterPath="$PROJECT_DIR$/Trees/CheckIdenticalTrees.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trees/Maximum Depth of Binary Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/Trees/Maximum Depth of Binary Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trees/ZigZagLevelOrderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Trees/ZigZagLevelOrderTraversal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
