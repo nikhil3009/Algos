@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4159827-da82-423f-baf9-b776ee6ab905" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Trees/BottomViewOfTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trees/BoundaryTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trees/LeftViewofTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trees/RightViewofTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trees/TopViewOfTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trees/ Diameter of Binary Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/Trees/ Diameter of Binary Tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trees/Balanced Binary Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/Trees/Balanced Binary Tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trees/Binary Tree Maximum Path Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Trees/Binary Tree Maximum Path Sum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trees/CheckIdenticalTrees.java" beforeDir="false" afterPath="$PROJECT_DIR$/Trees/CheckIdenticalTrees.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trees/Maximum Depth of Binary Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/Trees/Maximum Depth of Binary Tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trees/ZigZagLevelOrderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Trees/ZigZagLevelOrderTraversal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,13 +21,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
