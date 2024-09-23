@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4159827-da82-423f-baf9-b776ee6ab905" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Strings/Easy/Isomorphic Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/Easy/Largest Odd Number in String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/Easy/Longest Common Prefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/Easy/RotateStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/Easy/ValidAnagrams.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/DSA2.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
@@ -47,9 +52,10 @@
       <change beforePath="$PROJECT_DIR$/StacksAnsQueues/Implement Stack using Queues.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/StacksAnsQueues/Infirx to prefix.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/StacksAnsQueues/Infix to Postfix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StacksAnsQueues/LRU Cache.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/StacksAnsQueues/Next Greater Element I.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/StacksAnsQueues/Next Greater Element II.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StacksAnsQueues/Online Stock Span.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StacksAnsQueues/Online Stock Span.java" beforeDir="false" afterPath="$PROJECT_DIR$/Strings/Easy/ Remove Outermost Parentheses.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/StacksAnsQueues/Postfix to Infix.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/StacksAnsQueues/Postfix to Prefix.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/StacksAnsQueues/Prefix to Infix.java" beforeDir="false" />
