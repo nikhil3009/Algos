@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4159827-da82-423f-baf9-b776ee6ab905" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Strings/Easy/Maximum Nesting Depth of the Parentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/Easy/Roman to Integer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/Medium/Reverse Words in a String.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/Medium/Sort Characters By Frequency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/Medium/Longest Palindromic Substring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/Medium/Minimum Add to Make Parentheses Valid.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
