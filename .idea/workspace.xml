@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4159827-da82-423f-baf9-b776ee6ab905" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Strings/Easy/IsSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/Medium/Check If a String Contains All Binary Codes of Size K.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/Medium/EncodeDecodeurl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/Easy/Length of the Last word.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/Medium/Find All Anagrams in a String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/Medium/GroupAnagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/Medium/Longest Repeating Character Replacement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
