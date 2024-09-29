@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4159827-da82-423f-baf9-b776ee6ab905" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Strings/Easy/Maximum Number of Balloons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/Easy/Merge Strings Alternately.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/Medium/Maximum Number of Vowels in a Substring of Given Length.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/Easy/Valid Palindrome II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/Easy/Valid Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/Medium/Permutation in String.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
